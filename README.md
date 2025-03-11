@@ -23,6 +23,9 @@ Building AI models with Rust, volume 1 : Web risk detector.
     https://payhip.com/shumidixioc
 
 
+##
+Link:  https://payhip.com/shumidixioc
+
 ## More
 2.
 
